@@ -1,0 +1,85 @@
+
+====+++++===========
+
+<!-- 2:14 PM 10/11/2017-->
+<!DOCTTPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+    <link rel="stylesheet" href="paintemplates\painstyling\painstyle1.css">
+    <title>PhariseeAcademy</title>
+    </head>
+    <body>
+        <div><b>HOME</b>
+            <a href="file:///C:/Users/cody/Downloads/Git/gitcode/MyJS/oct2017JS/painfiles/painhistory.html"><b>HISTORY</b></a>
+        <a href="https://www.google.com"><b>SEARCH</b></a>
+
+</div>
+        <h1>PHARISEE ACADEMY INTERNATIONAL NETWORK</h1>
+        <p>PAIN is an inevitable part of a citizen's life.<br>A citizen who enrolls in PAIN is equipped
+        with tools to learn to cultivate :<br><br>
+        1)Love<br>2)Resilience<br>3)Perseverence<br>4)Courage<br>5)Character<br>
+        6)Knowledge<br>7)Academic skills<br>8)Artistic ability<br>
+        </p>
+
+
+    </body>
+</html>
+
+
+
+==========+++++++++++++==========
+<!-9:01 PM 10/10/2017-->
+<!-- 8:24 AM 10/10/2017 -->
+<! DOCTYPE html>
+<head>
+ <title> Pharisee Academy International Network </title>
+<link rel="stylesheet" href="paintemplates\painstyling\painstyles1.css">
+</head>
+<body>
+<h1> PHARISEE ACADEMY INTERNATIONAL NETWORK </h1>
+<b>HOME</b>
+<div class="scrollmenu">
+    <a href="https://www.google.com"><b>SEARCH</b></a>
+    <a href="file:///C:/Users/cody/Downloads/Git/gitcode/MyJS/oct2017JS/painfiles/painhistory.html"><b>HISTORY</b></a>
+</div>
+<p>PAIN is an inevitable part of a citizen's life.<br>A citizen who enrolls in PAIN is equipped
+with tools to learn to cultivate :<br><br>
+1)Love<br>2)Resilience<br>3)Perseverence<br>4)Courage<br>5)Character<br>
+6)Knowledge<br>7)Academic skills<br>8)Artistic ability<br>
+</p>
+</body>
+<html>
+
+<!-- 8:24 AM 10/10/2017 -->
+<! DOCTYPE html>
+<head>
+ <title> Pharisee Academy International Network </title>
+<link rel="stylesheet" href="paintemplates\painstyling\painstyles1.css">
+
+
+</head>
+<body>
+<h1> PHARISEE ACADEMY INTERNATIONAL NETWORK </h1>
+
+<b>HOME</b>
+<div class="scrollmenu">
+    <a href="https://www.google.com"><b>SEARCH</b></a>
+    <a href="file:///C:/Users/cody/Downloads/Git/gitcode/MyJS/oct2017JS/painfiles/painhistory.html"><b>HISTORY</b></a>
+</div>
+<p>PAIN is an inevitable part of a citizen's life.<br>A citizen who enrolls in PAIN is equipped
+with tools to learn to cultivate :<br><br>
+1)Love<br>
+2)Resilience<br>
+3)Perseverence<br>
+4)Courage<br>
+5)Character<br>
+6)Knowledge<br>
+7)Academic skills<br>
+8)Artistic ability<br>
+
+</p>
+
+
+</body>
+<html>
